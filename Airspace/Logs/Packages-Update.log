@@ -45,3 +45,35 @@ The following packages were updated:
   com.unity.render-pipelines.high-definition from version 12.1.0 to 12.1.8
   com.unity.timeline from version 1.6.3 to 1.6.4
   com.unity.visualscripting from version 1.7.6 to 1.7.8
+
+=== Mon Jan  2 18:10:07 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.17.2 to 1.17.7
+  com.unity.ide.rider from version 3.0.15 to 3.0.16
+  com.unity.render-pipelines.high-definition from version 12.1.7 to 12.1.8
+
+=== Mon Jan  2 18:10:07 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.9.1
+  com.unity.terrain-tools@4.0.3
+  com.unity.modules.nvidia@1.0.0
+The following packages were updated:
+  com.unity.test-framework from version 1.1.31 to 1.1.33
+
+=== Mon Jan  2 18:17:40 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.17.2 to 1.17.7
+  com.unity.ide.rider from version 3.0.15 to 3.0.16
+  com.unity.render-pipelines.high-definition from version 12.1.7 to 12.1.8
