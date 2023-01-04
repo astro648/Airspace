@@ -301,10 +301,10 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0}
   lowestCloudAltitude:
     m_OverrideState: 1
-    m_Value: 320.82
+    m_Value: 668
   cloudThickness:
     m_OverrideState: 1
-    m_Value: 3898
+    m_Value: 1450
   fadeInMode:
     m_OverrideState: 0
     m_Value: 0
@@ -333,7 +333,7 @@ MonoBehaviour:
     m_Value: 0
   cloudPreset:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 3
   cumulusMap:
     m_OverrideState: 0
     m_Value: {fileID: 0}
@@ -363,51 +363,51 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 64
   customDensityCurve:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.006248474
-        value: 1.0479126
-        inSlope: -0.19479552
-        outSlope: -0.19479552
+        time: 0.007347107
+        value: 0.99438477
+        inSlope: -0.058309626
+        outSlope: -0.058309626
         tangentMode: 34
         weightedMode: 0
         inWeight: 0
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.10693185
-        value: 1.0282999
-        inSlope: -0.07066743
-        outSlope: -0.07066743
+        time: 0.19715707
+        value: 0.983317
+        inSlope: -0.017116345
+        outSlope: -0.017116345
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.32649636
-        value: 1.040038
-        inSlope: -0.04233959
-        outSlope: -0.04233959
+        time: 0.45906472
+        value: 0.98962295
+        inSlope: -0.014356494
+        outSlope: -0.014356494
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.58895993
-        value: 1.0037813
-        inSlope: -0.05032575
-        outSlope: -0.05032575
+        time: 0.60824704
+        value: 0.9817476
+        inSlope: -0.029291647
+        outSlope: -0.029291647
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0097439
-        value: 1.0195558
-        inSlope: 0.037488326
-        outSlope: 0.037488326
+        time: 1.0459988
+        value: 0.97921157
+        inSlope: -0.0057933712
+        outSlope: -0.0057933712
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -507,8 +507,8 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0.238
   shapeFactor:
-    m_OverrideState: 0
-    m_Value: 0.75
+    m_OverrideState: 1
+    m_Value: 0.689
   shapeScale:
     m_OverrideState: 0
     m_Value: 2.5
