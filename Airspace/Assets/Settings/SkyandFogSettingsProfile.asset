@@ -263,11 +263,11 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   windOrientation:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 169
   windSpeed:
-    m_OverrideState: 0
-    m_Value: 100
+    m_OverrideState: 1
+    m_Value: 125
   fogType:
     m_OverrideState: 1
     m_Value: 0
@@ -301,10 +301,10 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0}
   lowestCloudAltitude:
     m_OverrideState: 1
-    m_Value: 679.25
+    m_Value: 320.82
   cloudThickness:
     m_OverrideState: 1
-    m_Value: 2652
+    m_Value: 3898
   fadeInMode:
     m_OverrideState: 0
     m_Value: 0
@@ -368,67 +368,49 @@ MonoBehaviour:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        time: 0.006248474
+        value: 1.0479126
+        inSlope: -0.19479552
+        outSlope: -0.19479552
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0
-        outWeight: 0
+        outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.093112186
-        value: 0.4668274
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 0.29513487
-        value: 0.3019644
-        inSlope: 0.89889455
-        outSlope: 0.89889455
-        tangentMode: 0
+        time: 0.10693185
+        value: 1.0282999
+        inSlope: -0.07066743
+        outSlope: -0.07066743
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.4988098
-        value: 0.695285
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 0.73440176
-        value: 0.34698525
-        inSlope: 0.88890696
-        outSlope: 0.88890696
-        tangentMode: 0
+        time: 0.32649636
+        value: 1.040038
+        inSlope: -0.04233959
+        outSlope: -0.04233959
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.9440735
-        value: 0.8939667
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        time: 0.58895993
+        value: 1.0037813
+        inSlope: -0.05032575
+        outSlope: -0.05032575
+        tangentMode: 34
         weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.1083374
-        value: 0.028289795
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        time: 1.0097439
+        value: 1.0195558
+        inSlope: 0.037488326
+        outSlope: 0.037488326
+        tangentMode: 34
         weightedMode: 0
-        inWeight: 0
+        inWeight: 0.33333334
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -566,8 +548,8 @@ MonoBehaviour:
       additiveValue: 0
       multiplyValue: 1
   altitudeDistortion:
-    m_OverrideState: 0
-    m_Value: 0.5
+    m_OverrideState: 1
+    m_Value: 0.21
   cloudMapSpeedMultiplier:
     m_OverrideState: 0
     m_Value: 0.5
@@ -578,11 +560,11 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0.25
   verticalShapeWindSpeed:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 60
   verticalErosionWindSpeed:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 12
   temporalAccumulationFactor:
     m_OverrideState: 1
     m_Value: 0.934
@@ -591,7 +573,7 @@ MonoBehaviour:
     m_Value: 0
   perceptualBlending:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 0
   shadows:
     m_OverrideState: 1
     m_Value: 1
